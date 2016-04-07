@@ -2000,12 +2000,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/dunght160387/dunght160387-entity.git",
-                "reference": "6d1b0da067edd799417170df9bfba655a6b45972"
+                "reference": "7de6592712ba7737da67e80ae1ff2380a517c2e1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dunght160387/dunght160387-entity/zipball/6d1b0da067edd799417170df9bfba655a6b45972",
-                "reference": "6d1b0da067edd799417170df9bfba655a6b45972",
+                "url": "https://api.github.com/repos/dunght160387/dunght160387-entity/zipball/7de6592712ba7737da67e80ae1ff2380a517c2e1",
+                "reference": "7de6592712ba7737da67e80ae1ff2380a517c2e1",
                 "shasum": ""
             },
             "require": {
@@ -2064,7 +2064,7 @@
                 "source": "https://github.com/dunght160387/dunght160387-entity/tree/master",
                 "issues": "https://github.com/dunght160387/dunght160387-entity/issues"
             },
-            "time": "2016-04-07 02:02:58"
+            "time": "2016-04-07 03:02:08"
         },
         {
             "name": "twig/twig",
