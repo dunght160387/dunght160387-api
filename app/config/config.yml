@@ -71,7 +71,7 @@ doctrine:
                     # custom
                     CoreEntities:
                         type:       yml
-                        dir:        %kernel.root_dir%/../src/Tagcade/EntityBundle/Resources/config/doctrine/Core
+                        dir:        %kernel.root_dir%/../vendor/tagcade/entitybundle/Tagcade/EntityBundle/Resources/config/doctrine/Core
                         prefix:     Tagcade\EntityBundle\Entity\Core
                         alias:      TagcadeCoreEntity
                         is_bundle:  false

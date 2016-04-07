@@ -1,6 +1,6 @@
 <?php
 
-namespace Tagcade\EntityBundle\Tests\Controller;
+namespace Tagcade\ApiBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
